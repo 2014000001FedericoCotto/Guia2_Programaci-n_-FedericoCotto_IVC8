@@ -1,10 +1,10 @@
 Algoritmo digicara
 	Definir x Como Caracter
     
-    Escribir "Ingrese un carácter:"
-    Leer x
+	Escribir "Ingrese un carácter:"
+		Leer x
     
-    Si ( x >= "0" ) Entonces
+		Si ( x >= "0" ) Entonces
         Escribir "Digito"
     Sino
         Segun Minusculas(x) Hacer
